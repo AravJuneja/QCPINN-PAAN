@@ -1,0 +1,6 @@
+Name,TrainerModule,Dimensionality,Nonlinearity,Boundary,Time,Coupling,L3_Error
+Helmholtz,src.trainer.helmholtz_hybrid_trainer,3,0,1,0,0,4.12
+Wave,src.trainer.wave_hybrid_trainer,3,0,1,2,0,10.2
+Convection-Diffusion,src.trainer.diffusion_hybrid_trainer,4,0,2,1,0,12.0
+Klein-Gordon,src.trainer.klein_gordon_hybrid_trainer,3,3,2,2,0,11.7
+Lid-Driven Cavity,src.trainer.cavity_hybrid_trainer,4,2,3,1,2,32.0

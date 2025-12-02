@@ -1,0 +1,2 @@
+Linear regression (Error vs Total_Score):  y = 2.8560 * x + -8.2726
+Used 5 points.

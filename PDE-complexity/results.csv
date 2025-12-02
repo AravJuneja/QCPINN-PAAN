@@ -1,0 +1,6 @@
+Name,Dimensionality,Nonlinearity,Boundary,Time,Coupling,L3_Error,Total_Score
+Helmholtz,3,0,1,0,0,4.12,4.0
+Wave,3,0,1,2,0,10.2,6.0
+Convection-Diffusion,4,0,2,1,0,12.0,7.0
+Klein-Gordon,3,3,2,2,0,11.7,10.0
+Lid-Driven Cavity,4,2,3,1,2,32.0,12.0
